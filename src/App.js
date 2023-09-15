@@ -1,3 +1,4 @@
+import React from "react";
 import footer from "./Components/footer";
 import login from "./Components/login";
 import "./App.css";
